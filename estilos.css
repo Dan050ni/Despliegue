@@ -1,0 +1,23 @@
+.Contenedor{
+    font-size: 2rem;
+    color: rgb(22, 22, 22);
+    align-content: center;
+}
+
+body{
+    background: rgb(194, 238, 255);
+    width: 680px;
+    height: 1024px;
+}
+
+.contenedor-1{
+    font-size: 1.2rem;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    align-content: normal;
+}
+
+.button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(38, 0, 255);
+}
